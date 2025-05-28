@@ -1,7 +1,7 @@
 # Ebola virus Great-Lakes phylogeography
 
 Reproducible pipeline, data and interactive visualisation for  
-**“A five-decade spatial history of Sudan and Bundibugyo ebolaviruses in the Great-Lakes basin.”**
+**“A five-decade spatial history of Zaire, Sudan and Bundibugyo ebolaviruses in the Great-Lakes basin.”**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
